@@ -1,0 +1,1 @@
+function receivedEmail(params: string) {}
